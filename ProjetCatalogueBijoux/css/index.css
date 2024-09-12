@@ -1,0 +1,43 @@
+
+
+    .image-container {
+        display: flex;
+        position: relative;
+    }
+
+    .image-container img {
+        max-width: 100%;
+        margin: 100px; /* Adjust as needed */
+    }
+
+    .image-overlay {
+        position: absolute;
+        top: 50%; 
+        left: 25%; 
+        transform: translate(-50%, -50%);
+        color: white;
+        text-align: center;
+        font-size: 4em;
+        font-weight: bold;
+    }
+     .image-overlay1 {
+        position: absolute;
+        top: 50%; 
+        left: 75%; 
+        transform: translate(-50%, -50%);
+        color: white;
+        text-align: center;
+        font-size: 4em;
+        font-weight: bold;
+     }
+     
+    .accueil1 {
+        width: 380px;
+        height: 380px;
+    }
+
+    .accueil2 {
+        width: 380px;
+        height: 380px;
+    }
+

@@ -1,0 +1,58 @@
+.center-title {
+    text-align: center;
+}
+  
+.tableau-style{
+    margin-top:0  ;
+    margin-left: 0;
+    table-layout: center;
+    width: 100%;
+    margin-right: 0 ;
+    
+}     
+
+.total-align {
+    background-color: #517053;
+    color: #ffffff; 
+    font-weight: bold;
+    text-align: left;
+} 
+
+.total-cell {
+    background-color: #517053;
+    color: #ffffff; 
+    font-weight: bold; 
+}
+
+
+.tableau-style thead {
+    font-size: 35px;
+    color: #517053 ;
+}
+.tableau-style tbody{
+
+    font-size: 18px;
+}
+
+body {
+    background-color: #E4EAE0; 
+}
+
+.total-commande {
+    background-color: #517053; 
+    color: #ffffff; 
+    font-weight: bold; 
+    font-family: "Tenor Sans", sans-serif;
+}
+
+.panier-image {
+    width: 50px;
+    height: auto;
+    font-family: "Tenor Sans", sans-serif;
+}
+
+.panier-confirmer img{
+    width: 100px;
+    height: auto;
+    font-family: "Tenor Sans", sans-serif;
+}
